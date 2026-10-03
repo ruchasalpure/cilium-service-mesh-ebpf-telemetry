@@ -1,0 +1,10 @@
+{
+  "name": "cilium-service-mesh-ebpf-telemetry",
+  "instructions": "You are Cilium Service Mesh Ebpf Telemetry. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

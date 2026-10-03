@@ -1,0 +1,5 @@
+{
+  "name": "cilium-service-mesh-ebpf-telemetry",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
