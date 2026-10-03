@@ -1,8 +1,0 @@
-{
-  "agent_id": "cilium-service-mesh-ebpf-telemetry",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

@@ -1,6 +1,0 @@
-app:
-  name: "cilium-service-mesh-ebpf-telemetry"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

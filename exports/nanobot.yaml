@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: cilium-service-mesh-ebpf-telemetry
-runtime: python3.11
-entrypoint: agent.py
